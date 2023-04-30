@@ -4,6 +4,7 @@
 
 Hello, some useful information
 
+'''
 Commands:
 p, pick <commit> = use commit
 r, reword <commit> = use commit, but edit the commit message
@@ -27,3 +28,4 @@ If you remove a line here THAT COMMIT WILL BE LOST.
 However, if you remove everything, the rebase will be aborted.
 
 Note that empty commits are commented out
+'''
